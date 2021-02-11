@@ -1,2 +1,2 @@
 # San-Jose-Home-Sales-Price-Analysis
-Analyzed and visualized San Jose home price using Tableau to find the optimal bid price to help my friend purchase the best candidate house.
+Performed quantitative housing market data analysis on Zillow’s sold homes in San Jose between 2018 and 2020 using Python and Tableau. The analytical results assisted in understanding the housing market trend in San Jose, CA.
